@@ -1,1 +1,2 @@
-# TO-do-app
+# ToDo-App
+ToDo Application using JS
